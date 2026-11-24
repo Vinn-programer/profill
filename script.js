@@ -4,7 +4,7 @@
   const STORAGE_KEY = "profile_links_clean_v2";
   const FALLBACK_AVATAR = "kucing.jpg";
   const DEFAULT_DATA = {
-    name: "ppnna33_",
+    name: "Vinn",
     avatar: "kucing.jpg",
     bio: "Selamat datang di halaman tautan resmi saya. Hubungi saya lewat WhatsApp atau Telegram, dan ikuti akun Instagram, TikTok, serta GitHub saya.",
     theme: "dark",
